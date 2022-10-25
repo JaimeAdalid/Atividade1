@@ -1,4 +1,7 @@
 1. Fiz o clone do repositorio no meu pc
 2. Fazendo um commit com o novo documento de texto
 3.1 Criado a branch1 e alterado txt + commit, pull etc
+4. Gerado conflito
+5. Resolvido conflito
+6. Exercicio finalizado
 
