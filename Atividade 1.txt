@@ -1,0 +1,2 @@
+1.Fiz o clone do repositorio no meu pc
+2.Fazendo um commit com o novo documento de texto
